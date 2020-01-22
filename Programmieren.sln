@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Programmieren_13_01_2020", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjektEinarmigerBandit", "ProjektEinarmigerBandit\ProjektEinarmigerBandit.vcxproj", "{7FB1D664-8369-4D0B-A1E7-651C27452C63}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Programmieren_22_01_20", "Programmieren_22_01_20\Programmieren_22_01_20.vcxproj", "{E0E640B4-AB7B-4CB9-834D-FF58F2C5B9CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,16 @@ Global
 		{7FB1D664-8369-4D0B-A1E7-651C27452C63}.Release|x64.Build.0 = Release|x64
 		{7FB1D664-8369-4D0B-A1E7-651C27452C63}.Release|x86.ActiveCfg = Release|Win32
 		{7FB1D664-8369-4D0B-A1E7-651C27452C63}.Release|x86.Build.0 = Release|Win32
+		{E0E640B4-AB7B-4CB9-834D-FF58F2C5B9CE}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{E0E640B4-AB7B-4CB9-834D-FF58F2C5B9CE}.Debug|x64.ActiveCfg = Debug|x64
+		{E0E640B4-AB7B-4CB9-834D-FF58F2C5B9CE}.Debug|x64.Build.0 = Debug|x64
+		{E0E640B4-AB7B-4CB9-834D-FF58F2C5B9CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{E0E640B4-AB7B-4CB9-834D-FF58F2C5B9CE}.Debug|x86.Build.0 = Debug|Win32
+		{E0E640B4-AB7B-4CB9-834D-FF58F2C5B9CE}.Release|Any CPU.ActiveCfg = Release|Win32
+		{E0E640B4-AB7B-4CB9-834D-FF58F2C5B9CE}.Release|x64.ActiveCfg = Release|x64
+		{E0E640B4-AB7B-4CB9-834D-FF58F2C5B9CE}.Release|x64.Build.0 = Release|x64
+		{E0E640B4-AB7B-4CB9-834D-FF58F2C5B9CE}.Release|x86.ActiveCfg = Release|Win32
+		{E0E640B4-AB7B-4CB9-834D-FF58F2C5B9CE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
